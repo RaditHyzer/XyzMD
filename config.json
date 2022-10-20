@@ -1,0 +1,19 @@
+{
+  "contactOwner": "6281225414296",
+  "ownerNumber": ["6281225414296@s.whatsapp.net"],
+  "botName": "XYZ•ID",
+  "ownerName": "SAYA RADIT",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "XYZ•ID SAYA RADIT",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "*CEK KATALOG*",
+      "atas_nama": "RADIT SESI"
+    },
+    "dana": {
+      "nomer": "081391701391",
+      "atas_nama": "RINA LATIFAH"
+    }
+  }
+}
