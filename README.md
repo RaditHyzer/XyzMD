@@ -126,7 +126,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - [Saweria](https://saweria.co/RADITSESI)
 
 # Wa Bot
-<a href="https://wa.me/6281515753238?text=#menu"><img src="https://img.shields.io/badge/XyzBOT-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281515753238?text=.menu"><img src="https://img.shields.io/badge/XyzBOT-MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to
 - Allah SWT
