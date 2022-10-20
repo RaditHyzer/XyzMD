@@ -34,7 +34,7 @@
 - [Subscribe RADIT SESI](#subscribe-radit-sesi)
 - [Edit Owner](#edit-owner)
 - [Donate](#donate)
-- [Whatsapp Bot group](#wa-bot)
+- [Whatsapp Bot](#wa-bot)
 - [Thanks to](#thanks-to)
 
 ---
